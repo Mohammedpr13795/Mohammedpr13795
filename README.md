@@ -61,7 +61,7 @@ Key features:
 
 - ✅ Completed: 21 out of 24 ProgrammingAdvices courses  
 - 🔄 Current Focus: **Entity Framework Core**, REST API Design, Clean Architecture  
-- 🎯 Goal: Build real-world, modern desktop & backend systems using .NET technologies
+- 🎯 Goal: Build real-world, modern desktop and web & backend systems using .NET technologies
 
 ---
 
