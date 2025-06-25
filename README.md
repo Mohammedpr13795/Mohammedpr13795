@@ -26,7 +26,7 @@ I build desktop applications that are:
 | Web API     | ASP.NET Core REST API (In Progress)        |
 | Database    | SQL Server, T-SQL                          |
 | Design      | OOP, Clean Code, 3-Layer Architecture      |
-| Tools       | Git, GitHub, Visual Studio, SSMS, Postman  |
+| Tools       | Git, GitHub, Visual Studio  |
 
 ---
 
@@ -59,7 +59,7 @@ Key features:
 
 ## 🎯 Learning Journey
 
-- ✅ Completed: 18 out of 24 ProgrammingAdvices courses  
+- ✅ Completed: 21 out of 24 ProgrammingAdvices courses  
 - 🔄 Current Focus: **Entity Framework Core**, REST API Design, Clean Architecture  
 - 🎯 Goal: Build real-world, modern desktop & backend systems using .NET technologies
 
@@ -67,9 +67,9 @@ Key features:
 
 ## 🌐 Let's Connect
 
-- 📧 Email: your@email.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: msam13795@gmail.com  
+- 💼 LinkedIn: [Mohammed Mukhir](www.linkedin.com/in/mohammedmukhir)  
+- 🐦 Twitter: [@M_30_dy](https://x.com/M_30_dy)
 
 ---
 
