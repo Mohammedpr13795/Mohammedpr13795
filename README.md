@@ -1,32 +1,31 @@
-# 👋 Hello there! I'm Mohammed Mukhir
+# 👋 Mohammed Mukhir – Full Stack .NET Developer (Desktop & Web APIs)
 
-💻 Full Stack Developer – Specialized in Desktop Applications  
-🧠 Passionate about clean code, strong database design, and real-world solutions
+🚀 Software Developer focused on building real-world .NET applications with clean architecture, layered design, and robust data access.
 
 ---
 
 ## 🚀 What I Do
 
-I build desktop applications that are:
+I build structured and scalable applications that are:
 
 - 🖥️ Fast and user-friendly using **Windows Forms**
-- 💾 Data-driven with **SQL Server** and **T-SQL**
-- 🔄 Layered and organized with **3-Tier Architecture**
-- 🔧 Built using **ADO.NET**, and currently expanding into **EF Core & APIs**
+- 💾 Data-driven with **SQL Server**, **T-SQL**, and **ADO.NET**
+- 🧱 Layered using **3-Tier Architecture** and practicing **SOLID** & **OOP**
+- 🌐 Transitioning into **EF Core**, **Web APIs**, and **Clean Architecture**
 
 ---
 
 ## 🛠️ My Toolbox
 
-| Area        | Technologies                              |
-|-------------|--------------------------------------------|
-| Languages   | C#, SQL                                    |
-| Backend     | .NET Framework, ADO.NET, EF Core (Learning)|
-| Desktop     | Windows Forms                              |
-| Web API     | ASP.NET Core REST API (In Progress)        |
-| Database    | SQL Server, T-SQL                          |
-| Design      | OOP, Clean Code, 3-Layer Architecture      |
-| Tools       | Git, GitHub, Visual Studio  |
+| Area        | Technologies                                  |
+|-------------|-----------------------------------------------|
+| Languages   | C#, SQL, T-SQL                                |
+| Desktop     | Windows Forms, .NET Framework, ADO.NET        |
+| Backend     | EF Core (Learning), ASP.NET Core Web API      |
+| Design      | OOP, SOLID Principles, Design Patterns, Clean Code |
+| Architecture| 3-Tier Architecture, Onion Architecture (Learning) |
+| Tools       | Visual Studio, Git, GitHub                    |
+| Other       | LINQ, Algorithms, Data Structures             |
 
 ---
 
@@ -34,44 +33,53 @@ I build desktop applications that are:
 
 ### 🔹 [Driving & Vehicle License Department (DVLD)](https://github.com/Mohammedpr13795/DVLD-Driving-Vehicle-License-Department)
 
-A full-featured desktop system for managing driving licenses and vehicle registrations.  
-Key features:
+👤 Individual Project | 🧱 3-Tier Architecture  
+A full-featured desktop system for managing driving licenses and vehicle registrations.
+
+🔧 Tech Stack: `.NET Framework`, `WinForms`, `SQL Server`, `ADO.NET`, `T-SQL`
+
+**Key Features:**
 - Apply for local/international licenses  
 - Manage renewals, tests, detentions/releases  
-- 3-layer architecture for separation of concerns  
-
-`Tech: .NET Framework (C#), WinForms, SQL Server, T-SQL, ADO.NET`
+- Separation of concerns using layered architecture
 
 ---
 
 ### 🔹 [Education Center System (In Progress)](https://github.com/Mohammedpr13795/Education_Center_WithEF)
 
-A modular backend system for managing educational center operations.  
-Built collaboratively with a focus on scalability and clean architecture.  
-Key features:
-- Manage students, courses, teachers, and schedules  
-- Uses Entity Framework Core for data access  
-- Designed with RESTful APIs for future front-end integration  
+👥 Collaborative Project | 🧱 Clean Architecture (in progress)  
+Backend system for managing educational center operations.
 
-`Tech: .NET 9, EF Core, RESTful API, SQL Server, T-SQL, 3-Tier Architecture`
+🔧 Tech Stack: `.NET 9`, `EF Core`, `RESTful API`, `SQL Server`, `3-Tier Architecture`
+
+**Key Features:**
+- Manage students, teachers, schedules  
+- Built with Entity Framework Core  
+- API-first design ready for front-end integration
 
 ---
 
 ## 🎯 Learning Journey
 
-- ✅ Completed: 21 out of 24 ProgrammingAdvices courses  
-- 🔄 Current Focus: **Entity Framework Core**, REST API Design, Clean Architecture  
-- 🎯 Goal: Build real-world, modern desktop and web & backend systems using .NET technologies
+- ✅ Completed: 21 out of 24 ProgrammingAdvices courses [programmingadvices](https://programmingadvices.com)
+- 🧠 Currently Deepening: `Routing`, `Middleware`, `JWT`, `Clean Code`, and `Onion Architecture`
+- 💼 Goal: Build scalable backend and desktop systems using modern .NET stack
 
 ---
 
 ## 🌐 Let's Connect
 
 - 📧 Email: msam13795@gmail.com  
-- 💼 LinkedIn: [Mohammed Mukhir](www.linkedin.com/in/mohammedmukhir)  
+- 💼 LinkedIn: [Mohammed Mukhir](https://www.linkedin.com/in/mohammedmukhir)  
+- 🐙 GitHub: [Mohammedpr13795](https://github.com/Mohammedpr13795)  
 - 🐦 Twitter: [@M_30_dy](https://x.com/M_30_dy)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.”  
 > — Cory House
+
+---
+
+🏅 *ProgrammingAdvices Certified*  
+📜 *Studying JWT Authentication, Middleware, and Clean Code with ASP.NET Core*
